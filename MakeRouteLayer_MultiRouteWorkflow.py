@@ -1,8 +1,7 @@
 # Emily Pitman
 # UWT - MSGT Capstone
 # Name: MakeRouteLayer_MultiRouteWorkflow.py
-# Description: Calculate the origin-destination routes for a set of riders and
-#              save the outputs to feature classes.
+# Description: Calculate the origin-destination routes for a set of riders and save the outputs to feature classes.
 # Requirements: Network Analyst Extension
 
 # Import system modules
